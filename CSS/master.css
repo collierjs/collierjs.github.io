@@ -1,0 +1,107 @@
+html { 
+ 
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.prof-box {
+	width: 450px;
+	height: 550px;
+	padding: 40px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	color: black;
+	border:3px solid black;
+}
+
+.prof-box-about{
+	width: 450px;
+	height: 500px;
+	padding: 40px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	color: black;
+	border:3px solid black;
+
+}
+
+.prof-box-research{
+	width: 450px;
+	height: 650px;
+	padding: 40px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	color: black;
+	border:3px solid black;
+
+}
+
+.profile-pic {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px; 
+}
+
+h1{
+	font-weight: 100;
+	letter-spacing: 5;
+	font-size: 40px;
+	margin-bottom: 0px;
+}
+
+h5{
+	margin-top: 3px;
+	font-weight: 200;
+}
+
+h4{
+	word-spacing: 8px;
+	font-weight: 350;
+
+}
+
+h6{
+	font-weight: 350;
+	font-size: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0px;
+
+}
+
+ p {
+ 	font-weight: 200;
+ 	letter-spacing: 1;
+ 	font-size: 15px;
+ }
+
+ ul {
+ 	font-weight: 200;
+ 	letter-spacing: 1;
+ 	font-size: 11px;
+ 	text-align: justify;
+ 	margin-bottom: 2px;
+
+ }
+
+.head-link a:hover{
+
+font-weight:bold;
+}
+
+ .social-icons {
+ 	font-size: 35px;
+ }
+
+.social-icons a{
+	color: black;
+	letter-spacing: 20px;
+}
+
+.line-break {
+	width: 330px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
